@@ -1,4 +1,4 @@
-# ライブラリ置き場: https://github.com/furupon2008/atcoder-library (を使用)
+# ライブラリ置き場: https://github.com/furupon102-lab/atcd-lib/ (を使用)
 n=int(input())
 x,y=map(int,input().split())
 a=list(map(int,input().split()))
